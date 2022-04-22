@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ARITRA69
-- 👀 I’m interested in ... WEB DEVELOPMENT, HACKING, GAME DESIGNING, 3D MODELING
-- 🌱 I’m currently learning ... DSA, WEB DEVELOPMENT
+- 👀 I’m interested in ... WEB & APPLICATION DEVELOPMENT, GAME DESIGNING, 3D MODELING
+- 🌱 I’m currently learning ... DSA, WEB DEVELOPMENT, OOPS(using JAVA)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
