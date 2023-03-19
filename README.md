@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aritra Sarkar</h1>
 <h3 align="center">Programmer and full stack web developer</h3>
+<div class="tenor-gif-embed" data-postid="16601149" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/kitten-cat-typing-typing-cat-thank-goodness-gif-16601149">Kitten Cat GIF</a>from <a href="https://tenor.com/search/kitten-gifs">Kitten GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritra69&label=Profile%20views&color=0e75b6&style=flat" alt="aritra69" /> </p>
 
