@@ -2,10 +2,6 @@
 <h3 align="center">Programmer and full stack web developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/94388396/226184057-b5ce6bcf-014e-483b-a8fc-e8c60395cf6c.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aritra69&label=Profile%20views&color=0e75b6&style=flat" alt="aritra69" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritra69" alt="aritra69" /></a> </p>
-
 - 🔭 I’m currently working on **A Blog Website for a client**
 
 - 🌱 I’m currently learning **React and Next**
