@@ -1,3 +1,4 @@
+![logo](https://github.com/ARITRA69/ARITRA69/blob/main/GithubBanner.png)
 <h1 align="center">Hi 👋, I'm Aritra Sarkar</h1>
 <h3 align="center">Programmer and full stack web developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/94388396/226184057-b5ce6bcf-014e-483b-a8fc-e8c60395cf6c.png">
