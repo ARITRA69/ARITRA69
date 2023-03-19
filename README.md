@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Web3**
 
-- 👨‍💻 Most of my projects are available at [GitHub](GitHub)
+- 👨‍💻 Most of my projects are available at [GitHub](https://github.com/ARITRA69))
 
 - 💬 Ask me about **React, Mongo, NodeJS**
 
 - 📫 How to reach me **aritrasarkar2002@gmail.com**
 
-- 📄 Know about my experiences [www.aritrasarkar.tech](www.aritrasarkar.tech)
+- 📄 Know about my experiences [MyPortfolio](www.aritrasarkar.tech)
 
 - ⚡ Fun fact **0% cringe**
 
