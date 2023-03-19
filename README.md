@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... WEB & APPLICATION DEVELOPMENT, GAME DESIGNING, 3D MODELING
 - 🌱 I’m currently learning ... DSA, WEB DEVELOPMENT, OOPS(using JAVA)
 <!-- - 💞️ I’m looking to collaborate on ...  -->
-- 📫 How to reach me ... connect via linked-in
+- 📫 How to reach me ... connect via linked-in or my website(www.aritrasarkar.tech)
 
 <!---
 ARITRA69/ARITRA69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
