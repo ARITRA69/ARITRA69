@@ -3,7 +3,8 @@
 <!-- ![logo](https://github.com/ARITRA69/ARITRA69/blob/main/GithubBanner.png) -->
 <h1 align="center">Hi 👋, I'm Aritra Sarkar</h1>
 <h3 align="center">Programmer and full stack web developer</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif"> -->
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/94388396/227806240-911d1bbb-6145-4855-8c32-eb95ba9bfc95.gif">
 
 - 🔭 I’m currently working on **A Blog Website for a client**
 
