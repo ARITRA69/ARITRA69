@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+
 ![logo](https://github.com/ARITRA69/ARITRA69/blob/main/GithubBanner.png)
 <h1 align="center">Hi 👋, I'm Aritra Sarkar</h1>
 <h3 align="center">Programmer and full stack web developer</h3>
