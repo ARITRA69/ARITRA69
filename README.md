@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Aritra Sarkar</h1>
 <h3 align="center">Programmer and full stack web developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
+<img align="right" src="https://profile-counter.glitch.me/A/count.svg?"  />
 
 - 🔭 I’m currently working on **A Blog Website for a client**
 
