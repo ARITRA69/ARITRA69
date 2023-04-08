@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **aritrasarkar2002@gmail.com**
 
-- 📄 Know about my experiences [MyPortfolio](www.aritrasarkar.tech)
+- 📄 Know about my experiences [MyPortfolio](https://aritrasarkar.tech/)
 
 - ⚡ Fun fact **0% cringe**
 
